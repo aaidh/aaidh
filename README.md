@@ -12,7 +12,7 @@
 
 ### Hi, I’m Aaidh.
 
-I build web apps around everyday needs — from keeping deadlines in sight to organising bills and turning QR codes into useful passes. I enjoy working on the details that make a tool clear, approachable, and easy to use.
+I build web apps around everyday needs - from keeping deadlines in sight to organising bills and turning QR codes into useful passes. I enjoy working on the details that make a tool clear, approachable, and easy to use.
 
 My projects span lightweight browser tools and applications built with Next.js and TypeScript. I learn by building, testing, and improving what I ship.
 
