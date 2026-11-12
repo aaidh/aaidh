@@ -10,7 +10,7 @@
   <a href="https://github.com/aaidh?tab=repositories">All repositories</a>
 </p>
 
-### Hi, I’m Aaidh.
+### Hi, I’m Aaidh
 
 I build web apps around everyday needs - from keeping deadlines in sight to organising bills and turning QR codes into useful passes. I enjoy working on the details that make a tool clear, approachable, and easy to use.
 
